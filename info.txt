@@ -1,0 +1,17 @@
+database - MONGODB,
+
+
+ORM = mongoose;
+
+folder structure.
+
+   index.js
+   routes
+     -route.js
+   middlewares
+    jwt.js
+   controllers
+      authController.js
+ 
+   utilities
+      generatejwt.js
